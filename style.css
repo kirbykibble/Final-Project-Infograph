@@ -1,3 +1,6 @@
+body {
+	overflow: hidden;
+}
 #display {
 	width: 100vw;
 	height: 500vh;
